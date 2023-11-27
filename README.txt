@@ -1,2 +1,2 @@
 This is test 
-feature 1
+feature2
